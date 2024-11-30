@@ -2,7 +2,7 @@ name: MSDO
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   sample:
